@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.1] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\9c428e259f5a53af28a5e35be0bbde61\AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\bd9a1acb82dc2917a46f87c51d1ee124\AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\f81ac825477a03d9fc0a503072b1a980\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\27623d5d6317e019af87d274408ca098\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\89aed33ab680e7655f55b7bde3b7d79e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\fdab2d8a41142bb9951907fa07bcd295\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6ace1b665ea292a689be029dc789a165\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\3d31186190f10c59ab345aec998766a7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6608f3291612e1d8faa7ca160e44c7a3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6020bdff28a30c0e5c81416b8b722765\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6579a5f09a01ef765a3f80713fdd97da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\2532c89aec1935372d9a83454c68baf1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\5eeab3e6a2240fc1129651f0b489e8b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\38f05ff85b10633905795bc66ef4fab0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\74fb6e810213b5b571bab82131a4fe92\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\4520b11d24146432a445276ba111b85b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\17248c2fa405567926ffeec256dd7678\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\2c1a281dda96bd2e1200abf83fae64b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\029a25a6021374f8682837e87c3c9896\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\e696d187352f0579cd7a68991cd0fe65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\ec82cf24745a65b4f2da5d042cc49c0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\fabf8cdf1e4c8a091fbdb0e4670ef11c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\a97f0e4531fefd5d125714080881a641\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\55266ef84962121492352fe5b5ff4439\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\02704c27e69bef541448aab0e2ab7066\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6fefa613654726358c8fe5b843e221dc\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:4:11-46
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:3:11-67
+	android:versionCode
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:5:13-74
+	android:name
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:5:30-72
+application
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\89aed33ab680e7655f55b7bde3b7d79e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\89aed33ab680e7655f55b7bde3b7d79e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\17248c2fa405567926ffeec256dd7678\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\17248c2fa405567926ffeec256dd7678\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\029a25a6021374f8682837e87c3c9896\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\029a25a6021374f8682837e87c3c9896\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\17248c2fa405567926ffeec256dd7678\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:9:13-45
+	android:roundIcon
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:12:13-44
+activity#com.lepji.koneksidatabase.MainActivity
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.1] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\9c428e259f5a53af28a5e35be0bbde61\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.1] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\9c428e259f5a53af28a5e35be0bbde61\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\bd9a1acb82dc2917a46f87c51d1ee124\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\bd9a1acb82dc2917a46f87c51d1ee124\AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\f81ac825477a03d9fc0a503072b1a980\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\f81ac825477a03d9fc0a503072b1a980\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\27623d5d6317e019af87d274408ca098\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\27623d5d6317e019af87d274408ca098\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\89aed33ab680e7655f55b7bde3b7d79e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\89aed33ab680e7655f55b7bde3b7d79e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\fdab2d8a41142bb9951907fa07bcd295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\fdab2d8a41142bb9951907fa07bcd295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6ace1b665ea292a689be029dc789a165\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6ace1b665ea292a689be029dc789a165\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\3d31186190f10c59ab345aec998766a7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\3d31186190f10c59ab345aec998766a7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6608f3291612e1d8faa7ca160e44c7a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6608f3291612e1d8faa7ca160e44c7a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6020bdff28a30c0e5c81416b8b722765\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6020bdff28a30c0e5c81416b8b722765\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6579a5f09a01ef765a3f80713fdd97da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6579a5f09a01ef765a3f80713fdd97da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\2532c89aec1935372d9a83454c68baf1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\2532c89aec1935372d9a83454c68baf1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\5eeab3e6a2240fc1129651f0b489e8b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\5eeab3e6a2240fc1129651f0b489e8b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\38f05ff85b10633905795bc66ef4fab0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\38f05ff85b10633905795bc66ef4fab0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\74fb6e810213b5b571bab82131a4fe92\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\74fb6e810213b5b571bab82131a4fe92\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\4520b11d24146432a445276ba111b85b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\4520b11d24146432a445276ba111b85b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\17248c2fa405567926ffeec256dd7678\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\17248c2fa405567926ffeec256dd7678\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\2c1a281dda96bd2e1200abf83fae64b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\2c1a281dda96bd2e1200abf83fae64b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\029a25a6021374f8682837e87c3c9896\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\029a25a6021374f8682837e87c3c9896\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\e696d187352f0579cd7a68991cd0fe65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\e696d187352f0579cd7a68991cd0fe65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\ec82cf24745a65b4f2da5d042cc49c0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\ec82cf24745a65b4f2da5d042cc49c0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\fabf8cdf1e4c8a091fbdb0e4670ef11c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\fabf8cdf1e4c8a091fbdb0e4670ef11c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\a97f0e4531fefd5d125714080881a641\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\a97f0e4531fefd5d125714080881a641\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\55266ef84962121492352fe5b5ff4439\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\55266ef84962121492352fe5b5ff4439\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\02704c27e69bef541448aab0e2ab7066\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\02704c27e69bef541448aab0e2ab7066\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6fefa613654726358c8fe5b843e221dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\OMEN\.gradle\caches\transforms-2\files-2.1\6fefa613654726358c8fe5b843e221dc\AndroidManifest.xml:20:5-44
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\z\pem_mobile\koneksincrud-master\app\src\main\AndroidManifest.xml
